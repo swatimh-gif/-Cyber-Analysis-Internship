@@ -1,13 +1,23 @@
-# Task X
+=# Cyber Analysis Internship
 
-## Objective
+Welcome to my Cyber Analysis Internship repository.
 
-(Add the task objective here.)
+## Internship Tasks
 
-## Deliverables
+- ✅ Task 1 – Basic Network Scanning with Nmap
+- ✅ Task 2 – Basic Firewall Configuration with UFW
+- ✅ Task 4 – Research Report on Common Network Security Threats
+- ✅ Task 6 – Research Report on the Importance of Patch Management
 
-(Add the required files.)
+## Tools Used
 
-## Status
+- Kali Linux
+- Nmap
+- UFW
+- GitHub
+- Markdown
 
-In Progress
+## Author
+
+Swati MH
+Engineering Student | Cyber Analysis Intern
